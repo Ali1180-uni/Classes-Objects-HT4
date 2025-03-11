@@ -18,7 +18,7 @@ namespace Classes___Objects_HT3
                 Console.WriteLine("\t------------------");
                 Console.WriteLine("\t||     MENU     ||");
                 Console.WriteLine("\t------------------");
-                Console.WriteLine("Please Select Option (1-2) or Press 0 to Exit:");
+                Console.WriteLine("Please Select Option (1-2)\n1. Library Managment\n2. School Managment or Press 0 to Exit:");
                 int sel;
                 try
                 {
